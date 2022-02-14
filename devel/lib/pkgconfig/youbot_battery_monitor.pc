@@ -1,0 +1,8 @@
+prefix=/home/ariele/catkin_ws/devel
+
+Name: youbot_battery_monitor
+Description: Description of youbot_battery_monitor
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: diagnostic_msgs pr2_msgs

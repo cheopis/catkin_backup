@@ -1,0 +1,8 @@
+prefix=/home/ariele/catkin_ws/install
+
+Name: teleop_eye_gaze
+Description: Description of teleop_eye_gaze
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ariele/catkin_ws/devel
+
+Name: youbot_diagnostic_aggregator
+Description: Description of youbot_diagnostic_aggregator
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: diagnostic_aggregator

@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/ariele/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ariele/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/ariele/catkin_ws/src/robot_state_publisher/include/**",
+        "/home/ariele/catkin_ws/src/youbot_driver/include/**",
+        "/home/ariele/catkin_ws/src/youbot_driver_ros_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

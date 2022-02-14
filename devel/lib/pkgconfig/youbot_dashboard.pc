@@ -1,0 +1,8 @@
+prefix=/home/ariele/catkin_ws/devel
+
+Name: youbot_dashboard
+Description: Description of youbot_dashboard
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

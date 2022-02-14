@@ -1,0 +1,8 @@
+prefix=/home/ariele/catkin_ws/devel
+
+Name: gazebo_eyegaze
+Description: Description of gazebo_eyegaze
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
